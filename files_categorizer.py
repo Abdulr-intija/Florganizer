@@ -32,4 +32,4 @@ for current_file in os.listdir(args.dir_path):
             os.mkdir(new_dir)
         os.rename(current_file, new_dir + current_file)
 
-print("Files categorized!")
+print("Files categorized!..")

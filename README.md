@@ -1,5 +1,5 @@
-# Files-categorizer
-A python script for categorizing files into specific folders to make a directory's content more organized
+# Florganizer
+Organize files on your desktop by categorizing them into specific folders
 
 ## How to use
 In CMD or Terminal:
